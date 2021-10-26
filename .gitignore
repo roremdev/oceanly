@@ -1,6 +1,6 @@
 # node
 node_modules/
-dist/
+build/
 .env
 
 # git
